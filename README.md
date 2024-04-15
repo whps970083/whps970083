@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ching-Jung Hsiao</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate backend developer studying at NTUST</h3>
 
 - 🔭 I’m currently working on [Codoctopus](https://github.com/ccoliu/ccoliu.github.io)
 
