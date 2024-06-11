@@ -47,7 +47,7 @@
   </a> 
 </p>
 
-<h3 align="left">My Projects:</h3>
+<h3 align="left">Projects:</h3>
 </p>
 
 <h4 align="left">Codoctopus</h4>
