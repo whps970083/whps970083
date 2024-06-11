@@ -63,7 +63,7 @@
   <p align="left">
     A RPG game where three players take turns controlling characters to defeat the final boss.
   </p>
-  <img src="path/to/your/gif2.gif" alt="Project 2 GIF" width="500" height="200"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/gif/ForTheKingDemo.gif" alt="Project 2 GIF" width="800" height="400"/>
 </p>
 
 <p align="left">
