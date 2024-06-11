@@ -49,7 +49,7 @@
 
 <h3 align="left">My Projects:</h3>
 <p align="left">
-  <img src="https://github.com/whps970083/multimedia/gif/CodoctopusDemo.gif" alt="Project 1 GIF" width="200" height="200"/>
+  <img src="https://github.com/whps970083/multimedia/main/gif/CodoctopusDemo.gif" alt="Project 1 GIF" width="200" height="200"/>
   <img src="path/to/your/gif2.gif" alt="Project 2 GIF" width="200" height="200"/>
   <img src="path/to/your/gif3.gif" alt="Project 3 GIF" width="200" height="200"/>
 </p>
