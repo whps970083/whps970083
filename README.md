@@ -48,8 +48,29 @@
 </p>
 
 <h3 align="left">My Projects:</h3>
+</p>
+
+<h3 align="left">My Projects:</h3>
+<h4 align="left">Codoctopus</h4>
+<p align="left">
+  Codoctopus is a fully automated task division robot. It automatically splits your work into different tasks and executes them step by step, currently used for writing code and other tasks.
+</p>
 <p align="left">
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Project 1 GIF" width="800" height="400"/>
+</p>
+
+<p align="left">
+  <h4 align="left">Project 2</h4>
+  <p align="left">
+    Description for Project 2
+  </p>
   <img src="path/to/your/gif2.gif" alt="Project 2 GIF" width="500" height="200"/>
+</p>
+
+<p align="left">
+  <h4 align="left">Project 3</h4>
+  <p align="left">
+    Description for Project 3
+  </p>
   <img src="path/to/your/gif3.gif" alt="Project 3 GIF" width="200" height="200"/>
 </p>
