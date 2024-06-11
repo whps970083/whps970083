@@ -72,5 +72,5 @@
     An evacuate algorithm used to quickly allocate students within a rectangular educational building so that all personnel can leave the building in the shortest time possible, requiring
     only the current number of people in each classroom.
   </p>
-  <img src="https://github.com/whps970083/multimedia/blob/main/gif/EvacuationDemo.gif" alt="Project 3 GIF" width="500" height="400"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/gif/EvacuationDemo.gif" alt="Project 3 GIF" width="600" height="400"/>
 </p>
