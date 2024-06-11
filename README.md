@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ching-Jung Hsiao</h1>
-<h3 align="center">A passionate backend developer studying at NTUST</h3>
+<h3 align="center">A passionate backend developer currently studying at NTUST</h3>
 
 - 🔭 I’m currently working on [Codoctopus](https://ccoliu.github.io/Webs/index.html)
-
-- 🌱 I’m currently learning **Qt in c++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
