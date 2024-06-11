@@ -50,7 +50,6 @@
 <h3 align="left">My Projects:</h3>
 </p>
 
-<h3 align="left">My Projects:</h3>
 <h4 align="left">Codoctopus</h4>
 <p align="left">
   Codoctopus is a fully automated task division robot. It automatically splits your work into different tasks and executes them step by step, currently used for writing code and other tasks.
