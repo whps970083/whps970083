@@ -59,17 +59,18 @@
 </p>
 
 <p align="left">
-  <h4 align="left">Project 2</h4>
+  <h4 align="left">PRG game</h4>
   <p align="left">
-    Description for Project 2
+    A RPG game where three players take turns controlling characters to defeat the final boss.
   </p>
   <img src="path/to/your/gif2.gif" alt="Project 2 GIF" width="500" height="200"/>
 </p>
 
 <p align="left">
-  <h4 align="left">Project 3</h4>
+  <h4 align="left">Evacuate Algorithm</h4>
   <p align="left">
-    Description for Project 3
+    An evacuate algorithm used to quickly allocate students within a rectangular educational building so that all personnel can leave the building in the shortest time possible, requiring
+    only the current number of people in each classroom.
   </p>
   <img src="path/to/your/gif3.gif" alt="Project 3 GIF" width="200" height="200"/>
 </p>
