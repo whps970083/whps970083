@@ -3,12 +3,16 @@
 
 - 🔭 I’m currently working on [Codoctopus](https://ccoliu.github.io/Webs/index.html)
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel shiau" height="30" width="40" />
   </a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,14 +51,18 @@
   </a>
 </p>
 
+<hr>
+
 <h3 align="left">Projects:</h3>
 
-<h4 align="left">Codoctopus website</h4>
+<h4 align="left">
+  <a href="https://ccoliu.github.io/Webs/index.html" target="_blank">Codoctopus Website</a>
+</h4>
 <p align="left">
   Codoctopus is a fully automated task division robot. It automatically splits your work into different tasks and executes them step by step, currently used for writing code and other tasks.
 </p>
 <p align="center">
-  <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Project 1 GIF" width="800" height="400"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="400"/>
 </p>
 
 <h4 align="left">RPG Game</h4>
@@ -62,7 +70,7 @@
   A RPG game where three players take turns controlling characters to defeat the final boss.
 </p>
 <p align="center">
-  <img src="https://github.com/whps970083/multimedia/blob/main/gif/ForTheKingDemo.gif" alt="Project 2 GIF" width="800" height="400"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/gif/ForTheKingDemo.gif" alt="RPG Game Demo GIF" width="800" height="400"/>
 </p>
 
 <h4 align="left">Evacuate Algorithm</h4>
@@ -70,5 +78,5 @@
   An evacuate algorithm used to quickly allocate students within a rectangular educational building so that all personnel can leave the building in the shortest time possible, requiring only the current number of people in each classroom.
 </p>
 <p align="center">
-  <img src="https://github.com/whps970083/multimedia/blob/main/gif/EvacuationDemo.gif" alt="Project 3 GIF" width="800" height="400"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/gif/EvacuationDemo.gif" alt="Evacuate Algorithm Demo GIF" width="800" height="400"/>
 </p>
