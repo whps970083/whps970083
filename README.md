@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer currently studying at NTUST</h3>
 
 - 🔭 I’m currently working on [Codoctopus](https://ccoliu.github.io/Webs/index.html)
-
+- Intern at 醫位資訊 [EC-WEB](https://www.e-web.com.tw/tw/home/)
 <hr>
 
 <h3 align="left">Connect with me:</h3>
