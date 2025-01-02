@@ -3,16 +3,16 @@
 
 - 🔭 I’m currently working on [Codoctopus](https://ccoliu.github.io/Webs/index.html)
 
-<hr>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel shiau" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel hsiao" height="30" width="40" />
   </a>
 </p>
 
-<hr>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -50,6 +50,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
 </p>
 
 <h4 align="left">Tools and Platforms:</h4>
@@ -63,9 +66,12 @@
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" />
   </a>
+  <a href="https://www.embarcadero.com/products/cbuilder" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/C%2B%2BBuilder_logo.png" alt="bcb" width="40" height="40" />
+  </a>
 </p>
 
-<hr>
+---
 
 <h3 align="left">Projects:</h3>
 
