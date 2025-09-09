@@ -1,12 +1,17 @@
-<h1 align="center">Hi, I'm Daniel Hsiao</h1>
+<h1 align="center">Hi, I'm Daniel Hsiao 👋</h1>
 <h3 align="center">A passionate backend developer currently studying at NTUST</h3>
 <h3 align="center">Working as a Software Engineer at E-Web Technology</h3>
 
-- 🔭 I’m currently working on [Codoctopus](https://ccoliu.github.io/Webs/index.html)
+---
+
+### 🔭 What I'm Currently Working On
+
+- I’m currently working on [Codoctopus](https://ccoliu.github.io/Webs/index.html) - a fully automated task division robot.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel hsiao" height="30" width="40" />
@@ -15,9 +20,9 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
 
-<h4 align="left">Programming Languages:</h4>
+#### Programming Languages:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -36,7 +41,7 @@
   </a>
 </p>
 
-<h4 align="left">Web Development:</h4>
+#### Web Development:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -46,7 +51,7 @@
   </a>
 </p>
 
-<h4 align="left">Database:</h4>
+#### Database:
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
@@ -56,7 +61,7 @@
   </a>
 </p>
 
-<h4 align="left">Tools and Platforms:</h4>
+#### Tools and Platforms:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -74,11 +79,9 @@
 
 ---
 
-<h3 align="left">Projects:</h3>
+### 🚀 Projects
 
-<h4 align="left">
-  <a href="https://ccoliu.github.io/Webs/index.html" target="_blank">Codoctopus Website</a>
-</h4>
+#### [Codoctopus Website](https://ccoliu.github.io/Webs/index.html)
 <p align="left">
   Codoctopus is a fully automated task division robot. It automatically splits your work into different tasks and executes them step by step, currently used for writing code and other tasks.
 </p>
@@ -86,7 +89,7 @@
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="400"/>
 </p>
 
-<h4 align="left">RPG Game</h4>
+#### RPG Game
 <p align="left">
   A RPG game where three players take turns controlling characters to defeat the final boss.
 </p>
@@ -94,7 +97,7 @@
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/ForTheKingDemo.gif" alt="RPG Game Demo GIF" width="800" height="400"/>
 </p>
 
-<h4 align="left">Evacuate Algorithm</h4>
+#### Evacuate Algorithm
 <p align="left">
   An evacuate algorithm used to quickly allocate students within a rectangular educational building so that all personnel can leave the building in the shortest time possible, requiring only the current number of people in each classroom.
 </p>
