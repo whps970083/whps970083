@@ -3,10 +3,6 @@
 B.S. in CS & Industrial Management (NTUST) • M.S. in Computer Science (1st-year)
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/">LinkedIn</a>
-</p>
-
 ---
 
 ## Summary
@@ -49,4 +45,4 @@ Algorithm to allocate classroom evacuation in a rectangular building to minimize
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/daniel-hsiao-b72140302/
+- <a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/">LinkedIn</a>
