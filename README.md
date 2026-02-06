@@ -1,11 +1,10 @@
 <h1 align="center">Hsiao Ching Jung (Daniel)</h1>
 <p align="center">
-Backend Developer<br/>
 B.S. in CS & Industrial Management (NTUST) • M.S. in Computer Science (1st-year)
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/">LinkedIn</a>
 </p>
 
 ---
@@ -32,11 +31,12 @@ A system that decomposes user goals into structured tasks and executes them step
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Codoctopus Demo" width="800"/>
 </p>
 
-### RPG Game (Turn-Based)
-A turn-based RPG where three players collaborate to defeat the final boss.  
-**Highlights:** UI/game flow implementation, gameplay logic, turn control.
+### Audio Transcreation (Ambient Sound Style Transfer)
+A system that translates **ambient sounds / soundscapes** into a different style while preserving the core acoustic structure, using **HHT-based features** and **GAN-based translation**.  
+**Highlights:** HHT feature pipeline, GAN training/tuning, qualitative and quantitative evaluation.
+
 <p align="center">
-  <img src="https://github.com/whps970083/multimedia/blob/main/gif/ForTheKingDemo.gif" alt="RPG Game Demo" width="800"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/gif/ForTheKingDemo.gif" alt="Audio Transcreation Demo (placeholder)" width="800"/>
 </p>
 
 ### Evacuation Scheduling Algorithm
