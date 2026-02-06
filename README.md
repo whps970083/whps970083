@@ -1,23 +1,23 @@
-<h1 align="center">Daniel Hsiao</h1>
+<h1 align="center">Hsiao Ching Jung (Daniel)</h1>
 <p align="center">
-Backend Developer • NTUST • Software Engineer @ E-Web Technology<br/>
+Backend Developer<br/>
+B.S. in CS & Industrial Management (NTUST) • M.S. in Computer Science (1st-year)
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/">LinkedIn</a> •
-<a href="https://ccoliu.github.io/Webs/index.html">Codoctopus Demo</a>
 </p>
 
 ---
 
 ## Summary
-Backend-focused engineer with experience building system-level and data-driven applications.  
-Comfortable delivering features end-to-end: API/service development, database integration, and performance/debugging in C/C++ environments.
-
-## Current Focus
-- **Codoctopus** — an automated task-division system that breaks down work into executable steps for code and workflow automation.
+Backend-focused engineer with experience building data-driven and system-level applications.  
+Interested in automation, algorithms, and practical engineering workflows.
 
 ## Skills
 - **Languages:** C/C++, Python, Java, JavaScript  
 - **Backend / Data:** SQL (MySQL), MongoDB, RESTful API  
-- **Tools:** Git, Linux, Qt, C++ Builder
+- **Tools:** Git, Linux, Qt, C++ Builder, n8n
 
 ---
 
