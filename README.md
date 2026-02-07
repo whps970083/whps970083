@@ -45,4 +45,4 @@ Algorithm to allocate classroom evacuation in a rectangular building to minimize
 ---
 
 ## Contact
-- <a href="https://www.linkedin.com/in/daniel-hsiao-b72140302/">LinkedIn</a>
+- <a href="www.linkedin.com/in/danielhsiao11415016">LinkedIn</a>
