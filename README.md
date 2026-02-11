@@ -1,6 +1,6 @@
 <h1 align="center">Hsiao Ching Jung (Daniel)</h1>
 <p align="center">
-B.S. in CS & Industrial Management (NTUST) • M.S. in Computer Science (1st-year)
+B.S. in Computer Science & Industrial Management (NTUST) • M.S. in Computer Science (NTUST 1st-year)
 </p>
 
 ---
