@@ -32,7 +32,7 @@ A system that translates **ambient sounds / soundscapes** into a different style
 **Highlights:** HHT feature pipeline, GAN training/tuning, qualitative and quantitative evaluation.
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Audio Transcreation Visualize" width="800"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/Image/TaiwanToIndia.png" alt="Audio Transcreation Visualize" width="800"/>
 </p>
 
 - 🎧 Audio 1: AUDIO_LINK_1_HERE
