@@ -35,8 +35,9 @@ A system that translates **ambient sounds / soundscapes** into a different style
   <img src="https://github.com/whps970083/multimedia/blob/main/Image/TaiwanToIndia.png" alt="Audio Transcreation Visualize" width="800"/>
 </p>
 
-- 🎧 Audio 1: AUDIO_LINK_1_HERE
-- 🎧 Audio 2: AUDIO_LINK_2_HERE
+- Audio 1: [TaiwanToIndia.wav](https://github.com/user-attachments/files/25225790/TaiwanToIndia.wav)
+- Audio 2: [IndiaToTaiwan.wav](https://github.com/user-attachments/files/25225799/IndiaToTaiwan.wav)
+
 
 ### Evacuation Scheduling Algorithm
 Algorithm to allocate classroom evacuation in a 2D building to minimize total evacuation time, using only real-time classroom headcounts.  
