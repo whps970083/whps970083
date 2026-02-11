@@ -38,11 +38,17 @@ A system that translates **ambient sounds / soundscapes** into a different style
 ### Evacuation Scheduling Algorithm
 Algorithm to allocate classroom evacuation in a rectangular building to minimize total evacuation time, using only real-time classroom headcounts.  
 **Highlights:** optimization mindset, algorithm design, simulation/demo.
+
+- Website: <a href="https://evacationsim.vercel.app/">EvacuationSim</a>
+
 <p align="center">
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/EvacuationDemo.gif" alt="Evacuation Demo" width="800"/>
 </p>
 
+https://github.com/user-attachments/assets/5c574b92-9935-4274-bba4-70f5aeb9e8b7
 ---
 
 ## Contact
+
+
 - <a href="www.linkedin.com/in/danielhsiao11415016">LinkedIn</a>
