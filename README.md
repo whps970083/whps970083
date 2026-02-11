@@ -32,11 +32,14 @@ A system that translates **ambient sounds / soundscapes** into a different style
 **Highlights:** HHT feature pipeline, GAN training/tuning, qualitative and quantitative evaluation.
 
 <p align="center">
-  <img src="https://github.com/whps970083/multimedia/blob/main/gif/ForTheKingDemo.gif" alt="Audio Transcreation Demo (placeholder)" width="800"/>
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Audio Transcreation Visualize" width="800"/>
 </p>
 
+- 🎧 Audio 1: AUDIO_LINK_1_HERE
+- 🎧 Audio 2: AUDIO_LINK_2_HERE
+
 ### Evacuation Scheduling Algorithm
-Algorithm to allocate classroom evacuation in a rectangular building to minimize total evacuation time, using only real-time classroom headcounts.  
+Algorithm to allocate classroom evacuation in a 2D building to minimize total evacuation time, using only real-time classroom headcounts.  
 **Highlights:** optimization mindset, algorithm design, simulation/demo.
 
 - Website: <a href="https://evacationsim.vercel.app/">EvacuationSim</a>
@@ -45,10 +48,8 @@ Algorithm to allocate classroom evacuation in a rectangular building to minimize
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/EvacuationDemo.gif" alt="Evacuation Demo" width="800"/>
 </p>
 
-https://github.com/user-attachments/assets/5c574b92-9935-4274-bba4-70f5aeb9e8b7
 ---
 
 ## Contact
-
 
 - <a href="www.linkedin.com/in/danielhsiao11415016">LinkedIn</a>
