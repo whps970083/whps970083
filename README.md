@@ -6,8 +6,9 @@ B.S. in CS & Industrial Management (NTUST) • M.S. in Computer Science (1st-yea
 ---
 
 ## Summary
-Backend-focused engineer with experience building data-driven and system-level applications.  
-Interested in automation, algorithms, and practical engineering workflows.
+Full-stack exposure with a primary focus on backend architecture and system design. 
+I enjoy breaking down problems and turning ideas into clean, maintainable implementations, while keeping high standards and communicating clearly with teammates. 
+On my free time, I play on a volleyball  team, go to the gym, and enjoy watching movies.
 
 ## Skills
 - **Languages:** C/C++, Python, Java, JavaScript  
@@ -35,8 +36,8 @@ A system that translates **ambient sounds / soundscapes** into a different style
   <img src="https://github.com/whps970083/multimedia/blob/main/Image/TaiwanToIndia.png" alt="Audio Transcreation Visualize" width="800"/>
 </p>
 
-- Audio 1: [TaiwanToIndia.wav](https://github.com/user-attachments/files/25225790/TaiwanToIndia.wav)
-- Audio 2: [IndiaToTaiwan.wav](https://github.com/user-attachments/files/25225799/IndiaToTaiwan.wav)
+- Taiwan to India: [TaiwanToIndia.wav](https://github.com/user-attachments/files/25225790/TaiwanToIndia.wav)
+- India to Taiwan: [IndiaToTaiwan.wav](https://github.com/user-attachments/files/25225799/IndiaToTaiwan.wav)
 
 
 ### Evacuation Scheduling Algorithm
