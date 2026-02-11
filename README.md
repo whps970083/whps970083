@@ -22,7 +22,7 @@ On my free time, I play on a volleyball  team, go to the gym, and enjoy watching
 ### Codoctopus — Automated Task Division System
 A system that decomposes user goals into structured tasks and executes them step-by-step, designed for coding and workflow automation.  
 **Highlights:** task planning, modular execution pipeline, demo website.
-- Demo: https://ccoliu.github.io/Webs/index.html  
+- Demo (offline): https://ccoliu.github.io/Webs/index.html
 - Preview:
 <p align="center">
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Codoctopus Demo" width="800"/>
