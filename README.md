@@ -53,4 +53,4 @@ Algorithm to allocate classroom evacuation in a 2D building to minimize total ev
 ---
 
 ## Contact
-Linkedin: <a href="www.linkedin.com/in/danielhsiao11415016">
+Linkedin: <a href="www.linkedin.com/in/danielhsiao11415016"></a>
